@@ -1,6 +1,6 @@
 mod day1;
+mod day2;
 
 fn main() {
-    println!("{}", day1::answer1());
-    println!("{}", day1::answer2());
+    println!("{}", day2::sol2());
 }
