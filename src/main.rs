@@ -1,6 +1,7 @@
 mod day1;
 mod day2;
+mod day3;
 
 fn main() {
-    println!("{}", day2::sol2());
+    println!("{}", day3::sol2());
 }
